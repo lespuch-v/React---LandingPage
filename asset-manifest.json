@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React---LandingPage/static/css/main.bac34984.css",
+    "main.js": "/React---LandingPage/static/js/main.bac5f89b.js",
+    "static/js/397.11b10130.chunk.js": "/React---LandingPage/static/js/397.11b10130.chunk.js",
+    "static/media/box.jpg": "/React---LandingPage/static/media/box.20a041cca59a7b64b12f.jpg",
+    "index.html": "/React---LandingPage/index.html",
+    "main.bac34984.css.map": "/React---LandingPage/static/css/main.bac34984.css.map",
+    "main.bac5f89b.js.map": "/React---LandingPage/static/js/main.bac5f89b.js.map",
+    "397.11b10130.chunk.js.map": "/React---LandingPage/static/js/397.11b10130.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bac34984.css",
+    "static/js/main.bac5f89b.js"
+  ]
+}
